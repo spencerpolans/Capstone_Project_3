@@ -9,13 +9,13 @@ This project develops a text summarization model using a pre-trained Transformer
 The goal is to help users quickly digest lengthy or busy chat conversations by generating short, accurate summaries. This can reduce information overload, improve engagement, and support asynchronous communication for messaging apps.
 
 ## Tools & Libraries
-Transformers
-Datasets
-PyTorch
-Google Colab (to speed up training/GPU access if local computer has CPU limits)
-evaluate (for ROUGE scoring)
-Pandas
-Tdqm
+-Transformers
+-Datasets
+-PyTorch
+-Google Colab (to speed up training/GPU access if local computer has CPU limits)
+-evaluate (for ROUGE scoring)
+-Pandas
+-Tdqm
 
 NOTE: tqdm is optional. Added in to see training progress.
 
